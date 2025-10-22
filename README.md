@@ -12,8 +12,8 @@ Hello! my name is Matthew Aprilian, and I am an informatics student from Institu
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=c#&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </br>
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
