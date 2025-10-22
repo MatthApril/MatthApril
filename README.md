@@ -1,0 +1,54 @@
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+
+<h1>Hi there 👋, I'm Matthew Aprilian</h1> 
+Hello! my name is Matthew Aprilian, and I am an informatics student from Institut Sains dan Teknologi Terpadu Surabaya. 
+<br>
+
+## 🔧 My Programming Languages & Tools
+![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </br>
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
+
+## 📊 My Github Stats
+<div align=center>
+    <img src="https://github-readme-stats.vercel.app/api?username=MatthApril&show_icons=true&locale=en" alt="MatthApril" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthApril&show_icons=true&locale=en&layout=compact" alt="MatthApril" />
+</div>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MatthApril" alt="MatthApril"/>
+</p>
+
+## 🔝 Top Contributed Repo
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=MatthApril&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="MatthApril"/>
+</p>
+
+##  
+ 
+ <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"/>
+    
+<!--
+**Zinx140/Zinx140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
